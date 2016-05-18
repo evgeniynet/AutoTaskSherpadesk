@@ -1,0 +1,6 @@
+/Users/MacBook/Downloads/autotask/autotask-samples-master/AutoTask Samples/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/MacBook/Downloads/autotask/autotask-samples-master/AutoTask Samples/bin/Debug/AutoTask Samples.exe.config
+/Users/MacBook/Downloads/autotask/autotask-samples-master/AutoTask Samples/bin/Debug/AutoTask Samples.exe.mdb
+/Users/MacBook/Downloads/autotask/autotask-samples-master/AutoTask Samples/bin/Debug/AutoTask Samples.exe
+/Users/MacBook/Downloads/autotask/autotask-samples-master/AutoTask Samples/obj/x86/Debug/AutoTask Samples.exe
+/Users/MacBook/Downloads/autotask/autotask-samples-master/AutoTask Samples/obj/x86/Debug/AutoTask Samples.exe.mdb
